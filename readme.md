@@ -2,22 +2,22 @@
 
 **Version 1.0.0**
 
-## Contribuidores
+## Contributors
 
 - Gabriel Oliveira Rodrigues <gabrieloliveira12488@gmail.com>
 
-## Como rodar a aplicação
+## How to run the application
 
-## Instale as dependencias
+## Install all dependencies
 - cd server -> npm install
 - cd client -> npm install
 
 ## Mongo connection setup
 
-- Edite server/.env MONGODB_URL para seu url apropriado.
+- Edit server/.env MONGODB_URL to its proper url.
 
 ## Rodar o servidor 
-- Abra o terminal na raiz do projeto
+- Open a terminal on the root of the project
 - cd server -> npm run dev # Express & React :3000 & 5000 
 - cd server -> npm run server # Express only :5000
 - cd server -> npm run client #React Client only:3000
