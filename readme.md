@@ -16,7 +16,7 @@
 
 - Edit server/.env MONGODB_URL to its proper url.
 
-## Rodar o servidor 
+## Run the local server 
 - Open a terminal on the root of the project
 - cd server -> npm run dev # Express & React :3000 & 5000 
 - cd server -> npm run server # Express only :5000
